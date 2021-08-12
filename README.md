@@ -6,4 +6,4 @@ This repository contains all the solutions of the problems from SDE Sheet by Str
 
 ## Table of Contents
 
-### 1. Arrays
+### 1. Arrays and Maths
