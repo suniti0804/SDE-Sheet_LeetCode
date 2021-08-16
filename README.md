@@ -8,3 +8,4 @@ This repository contains all the solutions of the problems from SDE Sheet by Str
 
 ### 1. Arrays and Maths
 ### 2. Hashing
+### 3. Linked List
